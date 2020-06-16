@@ -1,0 +1,28 @@
+{
+  "name": "anydoor_crushh",
+  "version": "0.0.1",
+  "description": "Tiny Nodejs static Web server",
+  "main": "src/app.js",
+  "bin": {
+    "anydoor": "./bin/anydoor"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crushh/anydoor2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crushh/anydoor2/issues"
+  },
+  "homepage": "https://github.com/crushh/anydoor2#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "handlebars": "^4.7.6",
+    "yargs": "^15.3.1"
+  },
+  "preferGlobal": true
+}
