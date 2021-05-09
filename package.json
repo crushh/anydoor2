@@ -21,7 +21,7 @@
   "homepage": "https://github.com/crushh/anydoor2#readme",
   "dependencies": {
     "chalk": "^4.1.0",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "yargs": "^15.3.1"
   },
   "preferGlobal": true
